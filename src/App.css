@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  color: coral;
+}
+.users {
+  margin-top: 70px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
